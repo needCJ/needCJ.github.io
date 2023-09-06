@@ -1,7 +1,8 @@
 # Version of the configuration file
 version: 5.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
-variant: default
+#variant: default
+variant: cyberpunk
 # Path or URL to the website's logo
 logo: /img/logo.svg
 #logo: /img/zcf.png
@@ -287,6 +288,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Github: https://github.com/needCJ
+            Markdown: https://www.modb.pro/db/181712
            # Bulma: https://bulma.io
     # Categories widget configurations
     -
@@ -297,7 +299,7 @@ widgets:
     # Archives widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
+        position: right
         type: archives
         
     # Tags widget configurations
