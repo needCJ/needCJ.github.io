@@ -4,6 +4,7 @@ cover: /img/nh.jpg
 thumbnail: /img/nh.jpg
 categories: [Valorant ,neon]
 tags: [valorant,neon]
+top: true
 ---
 
 
@@ -19,7 +20,7 @@ INSTANTLY throw an energy bolt that bounces once. Upon hitting each surface, the
 
 ### E - HIGH GEAR
 
-INSTANTLY channel Neon¡¯s power for increased speed. When charged, ALT FIRE to trigger an electric slide. Slide charge resets every two kills.
+INSTANTLY channel Neon's power for increased speed. When charged, ALT FIRE to trigger an electric slide. Slide charge resets every two kills.
 
 ### C - FAST LANE
 
@@ -27,4 +28,4 @@ FIRE two energy lines forward on the ground that extend a short distance or unti
 
 ### X - OVERDRIVE
 
-Unleash Neon¡¯s full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy. The duration resets on each kill.
+Unleash Neon's full power and speed for a short duration. FIRE to channel the power into a deadly lightning beam with high movement accuracy. The duration resets on each kill.
